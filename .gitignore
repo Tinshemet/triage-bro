@@ -1,0 +1,10 @@
+# triage output
+triage-report-*/
+*.ppm
+# python
+__pycache__/
+*.pyc
+# compiled yara cache
+*.yc
+# local scratch
+*.log

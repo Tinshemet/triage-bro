@@ -1,0 +1,4 @@
+# python deps (pip install -r requirements.txt)
+yara-python
+pefile
+flare-capa
